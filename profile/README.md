@@ -8,7 +8,7 @@ Join our chapter here: [GDSC BVP Pune](https://gdsc.community.dev/bharati-vidyap
 
 ## Our Socials
 
-* LinkedIn 
-* Twitter
-* Instagram 
+* [LinkedIn](https://www.linkedin.com/company/google-developer-student-clubs-bvp-pune/)
+* [Twitter](https://twitter.com/dscbvppune)
+* [Instagram](https://instagram.com/gdscbvppune)
 * Website 
