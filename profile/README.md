@@ -20,7 +20,7 @@ Join our chapter here: [GDSC BVP Pune](https://gdsc.community.dev/bharati-vidyap
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
   <a href="https://gdscbvppune.github.io/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+		<img src="https://img.shields.io/badge/Website-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
   <a href="mailto:dscbvppune@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
