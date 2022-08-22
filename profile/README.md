@@ -6,6 +6,8 @@ Google Developer Student Clubs Bharati Vidyapeeth Deemed University College of E
 
 [![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Club-blue?style=for-the-badge)](https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/)
 
+Check out our past events [here](https://gdsc.community.dev/bharati-vidyapeeth-deemed-university-college-of-engineering-pune/#past-events)!
+
 ## Our Socials
 
 <p align="center">
