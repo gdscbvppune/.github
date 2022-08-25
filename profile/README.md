@@ -24,6 +24,9 @@ Check out our past events [here](https://gdsc.community.dev/bharati-vidyapeeth-d
   <a href="https://gdscbvppune.github.io/">
 		<img src="https://img.shields.io/badge/Website-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
+	<a href="https://gdscbvppune.bio.link/">
+		<img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white" />
+	</a>
   <a href="mailto:dscbvppune@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
